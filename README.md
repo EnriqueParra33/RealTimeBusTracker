@@ -16,6 +16,10 @@ Here you will find a real time bus tracker that circulate across the MIT surroun
 
 Replace the marker icon to a bus icon so the map has more clarity. Add traffic heat to the roads. 
 
+## Support
+
+If you have any comments or require further information you can contact me via: enriqueparra33@gmail.com
+
 ## License
 
 MIT License
